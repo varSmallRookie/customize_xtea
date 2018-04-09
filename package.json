@@ -1,6 +1,6 @@
 {
   "name": "customize_xtea",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Encryption Algorithm",
   "main": "index.js",
   "scripts": {
