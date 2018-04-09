@@ -1,6 +1,6 @@
 {
-  "name": "xtea",
-  "version": "1.0.0",
+  "name": "customize_xtea",
+  "version": "1.0.1",
   "description": "Encryption Algorithm",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/varSmallRookie/xtea.git"
+    "url": "git+https://github.com/varSmallRookie/customize_xtea.git"
   },
   "keywords": [
     "Encryption",
@@ -17,7 +17,7 @@
   "author": "varSmallRookie",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/varSmallRookie/xtea/issues"
+    "url": "https://github.com/varSmallRookie/customize_xtea/issues"
   },
-  "homepage": "https://github.com/varSmallRookie/xtea#readme"
+  "homepage": "https://github.com/varSmallRookie/customize_xtea#readme"
 }
