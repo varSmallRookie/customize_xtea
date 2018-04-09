@@ -1,0 +1,23 @@
+{
+  "name": "xtea",
+  "version": "1.0.0",
+  "description": "Encryption Algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varSmallRookie/xtea.git"
+  },
+  "keywords": [
+    "Encryption",
+    "Algorithm"
+  ],
+  "author": "varSmallRookie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/varSmallRookie/xtea/issues"
+  },
+  "homepage": "https://github.com/varSmallRookie/xtea#readme"
+}
